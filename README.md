@@ -21,6 +21,8 @@ Follow these steps to install and run the project:
 5. Generate an app key: `php artisan key:generate`
 6. Run the migrations: `php artisan migrate --seed`
 7. Start the server: `php artisan serve`
+8. Run npm : `npm run dev`
+
 
 Now, you should be able to access the application at `http://localhost:8000`.
 
